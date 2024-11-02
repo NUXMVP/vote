@@ -11,3 +11,5 @@ using - 0xcd24537df35bef6dc90a78ef1da6f05fe32dae5a
 
 3. Uniswap liquidity pool:
 https://app.uniswap.org/pool/24149?chain=sepolia
+
+See: $Vote1.3.pdf
