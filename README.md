@@ -1,6 +1,6 @@
 $VOTE: A Transparent Platform for Empowering Informed Voting Choices
 
-I. See: $Vote1.3.pdf
+I. See: $Vote1.3.pdf - https://github.com/NUXMVP/vote/blob/main/%24Vote1.3.pdf
 
 II. $vote (Sepolia)
 1. Etherscan: 
