@@ -1,3 +1,5 @@
+$VOTE: A Transparent Platform for Empowering Informed Voting Choices
+
 $vote (Sepolia)
 1. Etherscan: 
 https://sepolia.etherscan.io/token/0xcd24537df35bef6dc90a78ef1da6f05fe32dae5a
